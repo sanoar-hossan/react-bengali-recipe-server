@@ -1,0 +1,123 @@
+ [
+      {
+        "name": "Spaghetti Carbonara",
+        "ingredients": [
+          "spaghetti",
+          "eggs",
+          "bacon",
+          "parmesan cheese",
+          "black pepper"
+        ],
+        "cooking_method": "1. Cook spaghetti in salted water. \n2. Fry bacon in a pan until crispy. \n3. Whisk eggs and parmesan cheese in a bowl. \n4. Add cooked spaghetti to the pan with bacon and toss well. \n5. Remove from heat and pour in egg mixture while continuously stirring. \n6. Season with black pepper and serve.",
+        "rating": 4.8,
+        "chef": {
+          "picture": "https://example.com/chef1.jpg",
+          "name": "John Smith",
+          "bio": "John Smith is a classically trained chef with over 10 years of experience in Italian cuisine. He has worked in several Michelin-starred restaurants in Italy and is known for his expertise in pasta dishes.",
+          "likes": 5000,
+          "num_recipes": 100,
+          "experience_years": 10
+        }
+      },
+      {
+        "name": "Chicken Tikka Masala",
+        "ingredients": [
+          "chicken breast",
+          "yogurt",
+          "tomatoes",
+          "onions",
+          "ginger"
+        ],
+        "cooking_method": "1. Marinate chicken in yogurt, ginger, and spices. \n2. Grill or roast chicken until cooked through. \n3. In a separate pan, sauté onions and tomatoes. \n4. Add chicken to the pan with onions and tomatoes. \n5. Simmer for 10-15 minutes until the sauce thickens. \n6. Serve with rice or naan bread.",
+        "rating": 4.5,
+        "chef": {
+          "picture": "https://example.com/chef2.jpg",
+          "name": "Jane Doe",
+          "bio": "Jane Doe is an award-winning chef with over 15 years of experience in Indian cuisine. She has traveled extensively throughout India to learn about the different regional cuisines and incorporates those flavors into her dishes.",
+          "likes": 8000,
+          "num_recipes": 200,
+          "experience_years": 15
+        }
+      },
+      {
+        "name": "Beef Stroganoff",
+        "ingredients": [
+          "beef sirloin",
+          "onions",
+          "mushrooms",
+          "sour cream",
+          "beef broth"
+        ],
+        "cooking_method": "1. Cut beef into thin strips. \n2. Sauté onions and mushrooms in a pan. \n3. Add beef to the pan and cook until browned. \n4. Add beef broth and simmer for 10-15 minutes. \n5. Stir in sour cream and cook for another 5 minutes. \n6. Serve with egg noodles.",
+        "rating": 4.7,
+        "chef": {
+          "picture": "https://example.com/chef3.jpg",
+          "name": "Michael Johnson",
+          "bio": "Michael Johnson is a seasoned chef with over 5 years of experience in European cuisine. He has worked in some of the top restaurants in Paris and brings his expertise in classic French dishes to his cooking. He is known for his attention to detail and his ability to create rich and flavorful sauces.",
+          "likes": 3000,
+          "num_recipes": 50,
+          "experience_years": 5
+          }
+          },
+          {
+          "name": "Salmon Teriyaki",
+          "ingredients": [
+          "salmon fillets",
+          "soy sauce",
+          "brown sugar",
+          "garlic",
+          "ginger"
+          ],
+          "cooking_method": "1. Mix soy sauce, brown sugar, garlic, and ginger in a bowl. \n2. Marinate salmon in the mixture for at least 30 minutes. \n3. Grill or broil salmon until cooked through. \n4. Serve with steamed vegetables and rice.",
+          "rating": 4.9,
+          "chef": {
+          "picture": "https://example.com/chef4.jpg",
+          "name": "Anna Lee",
+          "bio": "Anna Lee is a rising star in the culinary world with a focus on Asian fusion cuisine. She draws inspiration from her Korean heritage and her travels throughout Asia to create unique and delicious dishes.",
+          "likes": 7000,
+          "num_recipes": 75,
+          "experience_years": 3
+          }
+          },
+          {
+          "name": "Beef Bourguignon",
+          "ingredients": [
+          "beef chuck roast",
+          "carrots",
+          "onions",
+          "red wine",
+          "beef broth"
+          ],
+          "cooking_method": "1. Cut beef into chunks. \n2. Sauté carrots and onions in a pan. \n3. Add beef to the pan and brown on all sides. \n4. Add red wine and beef broth to the pan. \n5. Simmer for 2-3 hours until beef is tender. \n6. Serve with mashed potatoes.",
+          "rating": 4.6,
+          "chef": {
+          "picture": "https://example.com/chef5.jpg",
+          "name": "David Kim",
+          "bio": "David Kim is a seasoned chef with over 20 years of experience in French cuisine. He has worked in some of the top restaurants in Paris and is known for his expertise in classic French dishes like Beef Bourguignon.",
+          "likes": 4000,
+          "num_recipes": 60,
+          "experience_years": 20
+          }
+          },
+          {
+          "name": "Pesto Pasta",
+          "ingredients": [
+          "pasta",
+          "basil",
+          "garlic",
+          "pine nuts",
+          "parmesan cheese"
+          ],
+          "cooking_method": "1. Cook pasta in salted water. \n2. Make pesto by blending basil, garlic, pine nuts, and parmesan cheese in a food processor. \n3. Toss cooked pasta with pesto. \n4. Serve with additional parmesan cheese and black pepper.",
+          "rating": 4.3,
+          "chef": {
+          "picture": "https://example.com/chef6.jpg",
+          "name": "Maria Rodriguez",
+          "bio": "Maria Rodriguez is a talented chef with a passion for Italian cuisine. She has worked in several top restaurants in Rome and brings her expertise in pasta dishes to her cooking.",
+          "likes": 6000,
+          "num_recipes": 80,
+          "experience_years": 8
+          }
+          }
+          ]
+  
