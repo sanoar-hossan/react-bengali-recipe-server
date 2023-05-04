@@ -1,7 +1,7 @@
  [
       {
         "id":1,
-        "name": "Spaghetti Carbonara",
+        "recipename": "Chicken-curry",
         "ingredients": [
           "spaghetti",
           "eggs",
@@ -13,8 +13,8 @@
         "rating": 4.8,
         "chef": {
           "picture": "https://withaspin.com/wp-content/uploads/2015/03/Roshogolla-13-150x150.png",
-          "name": "John Smith",
-          "bio": "John Smith is a classically trained chef with over 10 years of experience in Italian cuisine. He has worked in several Michelin-starred restaurants in Italy and is known for his expertise in pasta dishes.",
+          "name": "Salam Uddin",
+          "bio": "Salam Uddin is a classically trained chef with over 10 years of experience in Italian cuisine. He has worked in several Michelin-starred restaurants in Italy and is known for his expertise in pasta dishes.",
           "likes": 5000,
           "num_recipes": 100,
           "experience_years": 10
@@ -22,7 +22,7 @@
       },
       {
         "id":2,
-        "name": "Chicken Tikka Masala",
+        "recipename": "Chicken Tikka Masala",
         "ingredients": [
           "chicken breast",
           "yogurt",
@@ -34,8 +34,8 @@
         "rating": 4.5,
         "chef": {
           "picture": "https://withaspin.com/wp-content/uploads/2015/03/Narikel-puli-5-150x150.jpg",
-          "name": "Jane Doe",
-          "bio": "Jane Doe is an award-winning chef with over 15 years of experience in Indian cuisine. She has traveled extensively throughout India to learn about the different regional cuisines and incorporates those flavors into her dishes.",
+          "name": "Kalam Uddin",
+          "bio": "Kalam Uddin is an award-winning chef with over 15 years of experience in Indian cuisine. She has traveled extensively throughout India to learn about the different regional cuisines and incorporates those flavors into her dishes.",
           "likes": 8000,
           "num_recipes": 200,
           "experience_years": 15
@@ -43,7 +43,7 @@
       },
       {
         "id":3,
-        "name": "Beef Stroganoff",
+        "recipename": "Beef Stroganoff",
         "ingredients": [
           "beef sirloin",
           "onions",
@@ -64,7 +64,7 @@
           },
           {
             "id":4,
-          "name": "Salmon Teriyaki",
+          "recipename": "Salmon Teriyaki",
           "ingredients": [
           "salmon fillets",
           "soy sauce",
@@ -85,7 +85,7 @@
           },
           {
             "id":5,
-          "name": "Beef Bourguignon",
+          "recipename": "Beef Bourguignon",
           "ingredients": [
           "beef chuck roast",
           "carrots",
@@ -106,7 +106,7 @@
           },
           {
             "id":6,
-          "name": "Pesto Pasta",
+          "recipename": "Pesto Pasta",
           "ingredients": [
           "pasta",
           "basil",

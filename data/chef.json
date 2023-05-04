@@ -2,7 +2,7 @@
       {
         "id": 1,
         "picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?cs=srgb&dl=pexels-miquel-ferran-gomez-figueroa-3814446.jpg&fm=jpg",
-        "name": "John Smith",
+        "name": "Salam Uddin",
         "experience_years": 10,
         "num_recipes": 100,
         "likes": 5000
@@ -10,7 +10,7 @@
       {
         "id": 2,
         "picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",
-        "name": "Jane Doe",
+        "name": "Kalam Uddin",
         "experience_years": 15,
         "num_recipes": 200,
         "likes": 8000
