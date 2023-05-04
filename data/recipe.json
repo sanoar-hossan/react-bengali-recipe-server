@@ -1,6 +1,6 @@
  [
       {
-        "_id":1,
+        "id":1,
         "name": "Spaghetti Carbonara",
         "ingredients": [
           "spaghetti",
@@ -21,7 +21,7 @@
         }
       },
       {
-        "_id":2,
+        "id":2,
         "name": "Chicken Tikka Masala",
         "ingredients": [
           "chicken breast",
@@ -42,7 +42,7 @@
         }
       },
       {
-        "_id":3,
+        "id":3,
         "name": "Beef Stroganoff",
         "ingredients": [
           "beef sirloin",
@@ -63,7 +63,7 @@
           }
           },
           {
-            "_id":4,
+            "id":4,
           "name": "Salmon Teriyaki",
           "ingredients": [
           "salmon fillets",
@@ -105,7 +105,7 @@
           }
           },
           {
-            "_id":6,
+            "id":6,
           "name": "Pesto Pasta",
           "ingredients": [
           "pasta",
